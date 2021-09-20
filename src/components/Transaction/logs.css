@@ -1,0 +1,16 @@
+li{
+  list-style: none;
+  line-height: 1.25;
+}
+.card__logs-title{
+  margin-bottom: 5px;
+}
+.card-body__logs{
+  overflow-y: scroll;
+}
+.card__logs .card-body__logs{
+  height: 300px;
+}
+.card-body__logs ul li{
+  font-size: 0.8em;
+}

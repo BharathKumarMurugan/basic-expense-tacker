@@ -1,0 +1,29 @@
+.App{
+  margin: 1rem;
+}
+#section{
+  width: 350px;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#section__expense-tracker.card{
+  padding: 10px;
+  border: 1px solid #333;
+  border-radius: 2px;
+  margin: 5px 0;
+}
+.card-title{
+  text-align: center;
+  line-height: 1.5;
+}
+.card.card__form,
+.card.card__logs
+{
+  padding: 10px;
+  border: 1px solid #333;
+  border-radius: 2px;
+  margin: 5px 0;
+}

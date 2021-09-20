@@ -1,0 +1,22 @@
+.card__form-input{
+  text-align: center;
+}
+.card-title__form-title{
+  text-align: center;
+  margin-bottom: 5px;
+}
+.card__form-input input{
+  border: 1px solid #333;
+  padding: 5px;
+}
+.card__form-btn{
+  text-align: center;
+}
+.card__form-btn button{
+  padding: 2px 5px;
+  background-color: #efefef;
+  border: 1px solid #555;
+  box-shadow: none;
+  cursor: pointer;
+  margin: 2px;
+}
